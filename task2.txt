@@ -1,2 +1,3 @@
 This is task2.txt.
 Created in Branch B.
+7. Stage changes to A and commit those changes to B instead of A.
